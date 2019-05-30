@@ -1,2 +1,7 @@
 this is a test file for master.
 hello world!
+
+add some lines.
+first line
+second line
+third line
