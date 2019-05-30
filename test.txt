@@ -1,2 +1,6 @@
 this is a test for gitlearning.
 hello world!
+
+add some lines
+first line
+second line
